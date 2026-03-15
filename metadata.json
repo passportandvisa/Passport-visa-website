@@ -1,0 +1,7 @@
+{
+  "name": "I Max Passport and Visa Assistance",
+  "description": "Premium passport and visa assistance services in Pune and across India. Expert guidance for new passports, renewals, and international visas.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
